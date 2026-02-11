@@ -17,10 +17,10 @@ print(float(1 + 2.0))
 # *
 # /
 # %
-
-print(2**3)
-print(4**8)
-print(float(10%3))
-print(float(25%4))
-print(float(16%2))
-print(float(10 / 3))
+# Respuestas
+# print(2**3)
+# print(4**8)
+# print(float(10%3))
+# print(float(25%4))
+# print(float(16%2))
+# print(float(10 / 3))
