@@ -1,7 +1,4 @@
-# PhytonBasico
-Cosas basicas creo
-
-# Numeros
+ # Numeros
 print(int(7))
 print(float(7.7))
 type(7)
@@ -17,10 +14,11 @@ print(float(1 + 2.0))
 # *
 # /
 # %
-# Respuestas
-# print(2**3)
-# print(4**8)
-# print(float(10%3))
-# print(float(25%4))
-# print(float(16%2))
-# print(float(10 / 3))
+Respuestas
+print(2**3)
+print(4**8)
+print(float(10%3))
+print(float(25%4))
+print(float(16%2))
+print(float(10 / 3))
+
