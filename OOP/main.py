@@ -2,8 +2,8 @@ from enemigo import *
 from zombie import *
 from ogro import *
 
-zombie =zombie(10,1)
-ogro = ogro(20,3)
+zombie =Zombie(10,1)
+ogro = Ogro(20,3)
 def batalla (e1: Enemigo, e2: Enemigo):
     e1.habla()
     e2.habla()
